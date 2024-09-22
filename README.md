@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alicodesnonstop
+- 👋 Hi, my name is Shayaan A. Ali
 - 👀 I’m interested in software engineering.
 - 🌱 I’m currently learning computer science.
 - 💞️ I’m looking to collaborate on projects.
